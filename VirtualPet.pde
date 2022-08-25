@@ -1,4 +1,5 @@
 size(400,400);
+background(#F7F5F5);
 fill (#5F5555);
 ellipse(200,200,300,300);
 ellipse(200,180,80,80);
